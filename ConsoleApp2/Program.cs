@@ -11,7 +11,7 @@ namespace ConsoleApp2
         static void Main(string[] args)
 
         {
-            double a = 2; double b = 3; double c = 0;
+            double a = 7; double b = 6; double c = 0;
             c = a + b;
             Console.WriteLine(c);
             Console.ReadLine();

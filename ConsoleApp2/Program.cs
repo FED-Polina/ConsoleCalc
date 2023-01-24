@@ -13,6 +13,7 @@ namespace ConsoleApp2
         {
             double a = 7; double b = 6; double c = 0;
             c = a + b;
+            //after reset
             Console.WriteLine(c);
             Console.ReadLine();
             
